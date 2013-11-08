@@ -6,7 +6,7 @@ include ("validar.php");
 ?>
 <html>
 <head>
-	<title>Sesi&oacute;n</title>
+	<title>Sesi&oacute;nes</title>
 
 </head>
 <body>
